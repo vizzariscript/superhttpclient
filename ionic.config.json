@@ -1,5 +1,7 @@
 {
   "name": "superhttpclient",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
